@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Nihal Bhat
+## Senior pursuing BS in Computer Science at UTD 
