@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Master Yoda](https://www.thefactsite.com/wp-content/uploads/2012/11/master-yoda-facts.jpg)
